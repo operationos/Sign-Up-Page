@@ -1,5 +1,6 @@
 # Sign Up/In Page
 Pre-made open source sign in pages with 3 pages.
+**Release 0.1.3 is now out! [Check it out here!](https://github.com/googloss/Sign-Up-Page/releases/tag/v0.1.3)**
 
 ## Features
 1. Log In
