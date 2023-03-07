@@ -1,0 +1,68 @@
+body {
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: black;
+}
+
+.login-form {
+  width: 300px;
+  margin: auto;
+  margin-top: 100px;
+  background-color: #fff;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px #ccc;
+  text-align: center;
+}
+
+input[type="text"],
+input[type="password"] {
+  display: block;
+  width: 90%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px #ccc;
+}
+button {
+  display: block;
+  width: 97%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px #ccc;
+}
+
+.registerText {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+a {
+  color: green;
+  text-decoration: none;
+}
+a:hover {
+  color: darkgreen;
+  text-decoration: underline;
+}
+
+.welcomeBack {
+  text-align: center;
+  font-size: 18pt;
+  font-family: "Roboto", sans-serif;
+}
+
+input {
+  padding: 10px;
+}
+
+.googlHeader {
+  font-size: 18px;
+  text-decoration: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
