@@ -17,7 +17,7 @@ Available for use to all. Show attribution to us. Work is open source, and can b
 3. register.html - Sign up/register page
 4. signup.css - Universal CSS document for signup.html, forgotpassword.html, and register.html
 
-## GoogL Open Source Project
+## Operation Open Source
 
 ### Project Status: Active
 This project has not been discontinued.
